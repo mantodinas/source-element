@@ -1,9 +1,11 @@
 Expansion & Buoyancy: 
 Water is one of the few substances that expands when frozen, allowing ice to float and insulate life below.
-
+	https://van.physics.illinois.edu/ask/listing/9302
 
 Hexagonal Symmetry: 
 The molecular structure of ice creates the consistent six-sided symmetry seen in snowflakes.
+	https://www.noaa.gov/stories/how-do-snowflakes-form-science-behind-snow
 
 Global Freshwater Storage: 
 Nearly 70% of Earth's fresh water is stored in a solid state within glaciers and ice caps.
+	https://www.usgs.gov/water-science-school/science/ice-snow-and-glaciers-and-water-cycle
