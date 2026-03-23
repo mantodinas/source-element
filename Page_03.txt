@@ -1,15 +1,8 @@
-Add to page 1:
+Invisible Water Vapor: 
+True water vapor is an odorless, colorless gas; the "steam" we see is actually condensing liquid droplets.
 
-The Universal Solvent: 
-Water's unique chemical polarity allows it to dissolve more substances than any other liquid.
-	https://www.usgs.gov/water-science-school/science/water-universal-solvent#:~:text=Water%20is%20called%20the%20%22universal,chemicals%2C%20minerals%2C%20and%20nutrients.
+The Greenhouse Effect: 
+Water vapor is the most abundant greenhouse gas, playing a critical role in Earth's temperature regulation.
 
-
-Surface Tension: 
-Water has a "sticky" property that allows it to form droplets and supports small organisms on its surface.
-	https://www.nasa.gov/missions/station/iss-research/station-science-101-research-in-microgravity-higher-faster-longer/
-
-
-Unique Density: 
-Liquid water is most dense at 4°C, which prevents lakes from freezing solid from the bottom up.
-	https://www.usgs.gov/water-science-school/science/water-density
+Latent Heat: 
+The process of evaporation stores energy in gas, which later fuels weather patterns when it condenses.
