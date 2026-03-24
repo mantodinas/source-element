@@ -130,11 +130,29 @@ p {
 footer {
     font-size: 0.8rem;
     opacity: 0.7;
-    text-align: right;
+    text-align: center;
     padding: 2rem;
     width: 100%;
     max-width: 900px;
     margin: 0 auto;
+}
+
+.footer-logo-container {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.footer-logo-container img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.footer-logo-container img:hover {
+    transform: scale(1.1);
 }
 
 /* Themes */
@@ -164,6 +182,11 @@ body.page-1::before {
 /* Page 3: Gas */
 body.page-2 {
     background: var(--bg-liquid);
+}
+
+body.page-2 nav a {
+    color: #000000;
+    background-color: #b5cce0;
 }
 
 @keyframes fadeIn {
