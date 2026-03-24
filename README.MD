@@ -6,9 +6,10 @@
 
 Minimalist 3-page website exploring the three states of water. Created with HTML, CSS, JavaScript.
 
-Site published at https://mantodinas.github.io/aqua-source/
+Site published at https://mantodinas.github.io/source-element/index.html
 
 Created by Mantas Petrauskas 
 more projects https://github.com/mantodinas
 
-![screenshot](aqua-source-screenshot.webp)
+![screenshot](IMG/aqua_source_screenshot_01.webp)
+![screenshot](IMG/aqua_source_screenshot_02.webp)
